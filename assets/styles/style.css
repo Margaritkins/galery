@@ -1,0 +1,20 @@
+div{
+  padding: 10px 10px;
+  background-color: aquamarine;
+  text-align: center;
+}
+img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 30%;
+}
+.right-side-cat{
+  object-position: -420px;
+}
+.grey_cat{
+  object-position: -150px;
+}
+.smile{
+  object-position: -55px;
+}
