@@ -1,20 +1,29 @@
-div{
-  padding: 10px 10px;
+section{
   background-color: aquamarine;
   text-align: center;
 }
+
 img{
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border-radius: 30%;
+  border: 1px solid bisque;
+  margin: 20px;
 }
+
 .right-side-cat{
   object-position: -420px;
 }
+
 .grey_cat{
   object-position: -150px;
 }
+
 .smile{
   object-position: -55px;
+}
+
+.moon{
+  object-position: right;
 }
